@@ -6,8 +6,8 @@ CFX's Links for Fact Checks
 https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/
 https://docs.fivem.net/docs/server-manual/server-commands/
 
-Most of the commented-out info (With the # (Hashtag) is commented out. easy way of knowing what is removable is anything with ">" at the end of it. some other comments can be but isn't recommended if you have many owners
-or if you think you will be turning off or on settings via CFG. Also, some things are controlled via TXADMIN but are commented out if thats the case. there is a note about this. 
+Most of the commented-out info (With the # (Hashtag) is commented out. easy way of knowing what is removable is anything with ">" at the end of it. some other comments can be but it isn't recommended if you have many owners
+or if you think you will be turning off or on settings via CFG. Also, some things are controlled via TXADMIN but are commented out if that is the case. there is a note about this. 
 
 If you delete the top two lines. help can be found via my server:
 
