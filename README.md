@@ -1,5 +1,5 @@
 Hello, I am GamingThief/Thief I have been in the FiveM Community for a while now and have been doing server development for half of it as well! this Server.cfg is what the CFG was back a while ago.
-This is the most easy looking Config. and a lot of the info was "Fact Checked" via CFX's Docs (NOTE: THIS WORKS WILL REDM ASWELL)
+This is the most easy looking Config. and a lot of the info was "Fact Checked" via CFX's Docs (NOTE: THIS WORKS WITH REDM ASWELL)
 
 CFX's Links for Fact Checks
 
